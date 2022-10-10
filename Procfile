@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser integracao.ipynb
+web: voila --port=8888--no-browser integracao.ipynb
