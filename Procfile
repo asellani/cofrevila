@@ -1,1 +1,1 @@
-web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser integracao.ipynb
+web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser --VoilaConfiguration.enable_nbextensions=True integracao.ipynb
